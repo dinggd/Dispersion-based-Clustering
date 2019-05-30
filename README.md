@@ -3,7 +3,6 @@
 
 
 
-Pytorch implementation for our paper submitted.
 This code is based on the [Open-ReID](https://github.com/Cysu/open-reid) library and adopted from [BUC](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification).
 
 ## Preparation

@@ -1,9 +1,9 @@
-# Validity Guided Unsupervised Person Re-Identification with Cluster Disperison
+# Towards better Validity: Dispersion based Clustering for unsupervised Person Re-identification
 
 
 
 
-Pytorch implementation for our paper [[Link]](https://vana77.github.io/vana77.github.io/images/AAAI19.pdf).
+Pytorch implementation for our paper [[Link]](https://github.com/gddingcs/Dispersion-based-Clustering/edit/master/README.md).
 This code is based on the [Open-ReID](https://github.com/Cysu/open-reid) library and adopted from [BUC](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification).
 
 ## Preparation
@@ -28,16 +28,6 @@ sh ./run.sh
 
 `--merge_percent` percent of data to merge at each iteration.
 
-## Citation
-
-Please cite the following paper in your publications if it helps your research:
-    
-    @inproceedings{lin2019aBottom,
-        title     = {A Bottom-Up Clustering Approach to Unsupervised Person Re-identification},
-        author    = {Lin, Yutian and Dong, Xuanyi and Zheng, Liang and Yan, Yan and Yang, Yi},
-        booktitle = {AAAI Conference on Artificial Intelligence (AAAI)},
-        year      = {2019}
-    }
 
 
 

@@ -1,7 +1,7 @@
 # Towards better Validity: Dispersion based Clustering for unsupervised Person Re-identification
 
 
-
+Click [here](https://arxiv.org/pdf/1906.01308.pdf) to access the manuscript.
 
 This code is based on the [Open-ReID](https://github.com/Cysu/open-reid) library and adopted from [BUC](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification).
 
